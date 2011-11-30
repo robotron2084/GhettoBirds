@@ -9,4 +9,6 @@ This is a simple, functioning game that was used to go over the basics of Cocos2
  * user input
  * and a few other details
  
+http://enemyhideout.com
+ 
 ![picture alt](https://github.com/robotron2084/GhettoBirds/raw/master/Creative/gb_screenshot.png) 
